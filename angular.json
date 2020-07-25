@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngchart"
+    }
+  },
+  "defaultProject": "ngchart",
+  "cli": {
+    "analytics": false
+  }
 }
